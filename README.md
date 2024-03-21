@@ -7,10 +7,14 @@ Raport składa się z trzech stron. Na pierwszej jest mapa świata z zaznaczonym
 
 # Zrzuty  ekranu
 ## Strona 1
+![nobel_screen1](https://github.com/dorota10/DashboardNobelPrizes/assets/62251658/7eb9692a-e1e2-4ff4-98b4-cfd15a0c0afc)
 
 ## Strona 2
+![nobel_screen2](https://github.com/dorota10/DashboardNobelPrizes/assets/62251658/15411108-0e35-4354-a59e-77ec3663a561)
+![nobel_screen3](https://github.com/dorota10/DashboardNobelPrizes/assets/62251658/7afafe23-e450-4fb6-a733-6a40d425adf9)
 
 ## Strona 3
+![nobel_screen4](https://github.com/dorota10/DashboardNobelPrizes/assets/62251658/9324832c-6070-430c-a9bb-e374e408c7f3)
 
 # Wnioski
 1.	W Warszawie urodziło się tylko dwóch noblistów: Maria Skłodowska-Curie i Joseph Rotblat. Jednak w tabeli podane są trzy nagrody, ponieważ Maria Skłodowska-Curie otrzymała nagrodę Nobla dwa razy.
