@@ -1,3 +1,7 @@
+
+Poniżej przedstawiono krótki opis raportu dotyczącego Noblistów z lat 1901-2022.
+Raport powstał w programie PowerBI.
+
 # Opis raportu
 Raport składa się z trzech stron. Na pierwszej jest mapa świata z zaznaczonym miejscem urodzenia laureatów. Można analizować skąd pochodzili laureaci ze względu na kategorię i lata. Z uwagi na to, że często naukowcy zmieniali miejsce zamieszkania, pracowali za granicą i tam właśnie prowadzili badania naukowe, to na stronie 2 analizowane są organizacje (uczelnie, instytuty itp.) w których pracowali. Wykres Sakeya służy pokazaniu, że często na jednej uczelni pracowało kilku noblistów z różnych kontynentów.  To świadczy o otwartości jednostek naukowych na osoby z całego świata i ich atrakcyjności. Na stronie 3 analizowane są wskaźniki dla państw, w których przynajmniej jedna organizacja była jednostką naukową lub organizacją noblisty. Można porównać wydatki na edukację i liczbę badaczy.
 
